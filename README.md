@@ -1,2 +1,4 @@
-# vvg
-Zadaci sa vvg-a
+# vvg - web aplikacije
+
+Zadatak 1
+
